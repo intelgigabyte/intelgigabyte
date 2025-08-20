@@ -1,29 +1,17 @@
-Hi there, I'm <a href="https://github.com/intelgigabyte" target="_blank"> Nguyen Manh Dung ( intelgigabyte9299 )</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, I'm Nguyen Manh Dung (intelgigabyte9299) <img width="125" src="https://intelgigabyte.com/ghpvc/?username=althafvly&style=flat-square" alt="intelgigabyte">
+<img width="125" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dalthafvly&longCache=true" alt="intelgigabyte">
+ </h1>
+<h3 align="center">Android | AOSP | Developer</h3>
+<h4 align="center">
+🔭 As of right now, I work as an android developer.<br>
+🌱 I'm also learning Rom Custom and MDM for Android right now.<br>
+👯 My goal is to work with AOSP.<br>
+</h4>
+<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=althafvly&include_all_commits=true&theme=onedark&count_private=true" alt="intelgigabyte"> 
+<h3 align="center">See my work information on the github I'm a part of.</h3>
 
-**Talking about Personal Stuffs:**
-
-- 🚀 I am the crDroid maintainer for Samsung Galaxy A71 4G and the one maintaining KemKernel
-- 💖 Love working on hobby projects 
-- 🤓 Currently learning everything 
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=intelgigabyte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelgigabyte&layout=compact&theme=buefy&hide_border=true"/>
-</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="intelgigabyte.githubmio" target="blank">intelgigabyte.github.io</a>
+<a href="https://t.me/intelgigabyte" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="intelgigabyte" height="30" width="40" />
+</a></p>
