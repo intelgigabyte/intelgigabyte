@@ -7,7 +7,7 @@
 🌱 I'm also learning Rom Custom and MDM for Android right now.<br>
 👯 My goal is to work with AOSP.<br>
 </h4>
-<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=althafvly&include_all_commits=true&theme=onedark&count_private=true" alt="intelgigabyte"> 
+<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=intelgigabyte&include_all_commits=true&theme=onedark&count_private=true" alt="intelgigabyte"> 
 <h3 align="center">See my work information on the github I'm a part of.</h3>
 
 <h3 align="center">Connect with me:</h3>
