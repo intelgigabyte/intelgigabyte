@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/intelgigabyte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onelots&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intelgigabyte&theme=transparent" />
   </a>
   <a href="https://github.com/intelgigabyte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onelots&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=intelgigabyte&theme=transparent" />
   </a>
   <a href="https://github.com/intelgigabyte">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onelots&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=intelgigabyte&theme=transparent" />
   </a>
 </p>
 
